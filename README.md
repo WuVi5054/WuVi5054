@@ -1,21 +1,11 @@
-### Hi there 👋
-
-- 🔭 I’m currently in college, and CUNY Tech Prep
-- 🌱 I’m currently learning computer science, python and cybersecurity
-- 💬 Ask me about coding, anime, mange, whatever
-- 📫 How to reach me: https://www.linkedin.com/in/victor-wu-
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like anime, and manga
-
-
 <h1 align="center">Hi 👋, I'm Victor Wu</h1>
 <h3 align="center">A passionate Software Engineer and Data Scientist from New York City</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wuvi5054" alt="wuvi5054" /></a> </p>
 
-- 🌱 I’m currently learning **AI, Machine Learning, Frontend, Backend**
+- 🌱 I’m currently learning **AI, Machine Learning, Frontend, Backend, Cloud**
 
-- 💬 Ask me about **Data, Software Engineering and Anime**
+- 💬 Ask me about **Data, Software Engineering, Anime, Manga, and whatever**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/victor-wu-/](https://www.linkedin.com/in/victor-wu-/)
 
