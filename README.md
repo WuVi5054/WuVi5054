@@ -28,4 +28,4 @@
 
 -->
 
-<img src="https://myreadme.vercel.app/api/embed/wuvi5054?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img align="center" src="https://myreadme.vercel.app/api/embed/wuvi5054?panels=userstatistics,toprepositories,toplanguages,commitgraph&show_icons=true&locale=en&layout=compact" alt="reimaginedreadme" />
