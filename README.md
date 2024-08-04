@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Victor Wu</h1>
-<h3 align="center">A passionate Software Engineer and Data Scientist from New York City</h3>
+<h3 align="center">I'm a Global Data Analyst @ AIG, and a Software Engineer and Data Scientist from New York City</h3>
 
+<!-- Below has a widget for a bunch of github trophies that can be displayed on my profile -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wuvi5054" alt="wuvi5054" /></a> </p> -->
+- 📊 I was a Software Engineer at Con Edison and the Department of State, a Data Analyst at NSF and BlueBonnet, and a Generative AI Reasearcher at OSU
 
 - 🌱 I’m currently learning **AI, Machine Learning, Frontend, Backend, Cloud**
 
