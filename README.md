@@ -9,7 +9,9 @@
 
 - 💬 Ask me about **Data, Software Engineering, Anime, Manga, and whatever**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/victor-wu-/](https://www.linkedin.com/in/victor-wu-/)
+- 📄 Know about my experiences:
+-   - LinkedIn:[https://www.linkedin.com/in/victor-wu-/](https://www.linkedin.com/in/victor-wu-/)
+- - Personal Website [https://wuvi5054.github.io/Personal-Website/](https://wuvi5054.github.io/Personal-Website/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
